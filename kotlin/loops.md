@@ -4,7 +4,7 @@
 
 ## Prerequisites
 - [Hello World](helloworld.md)
-- [Calculator] (calculator.md)
+- [Calculator](calculator.md)
 
 ## Instructions
 1. Create a new project called `Loops` and a new Kotlin file within your project. Name the file `Main`.
@@ -12,13 +12,13 @@ Create your `main` method.
 
 2. Create a new Kotlin class within your project and name it `Loops`. 
 
-3. Create a method called `basicForLoops`. Write four seperate for loops that will...    
+3. Create a method called `basicForLoops`. Write four separate for loops that will...    
     - Part 1: print variable x in 0-10 inclusive
-    - Part 2: print variable x in 0-10 not inlusive of 10
+    - Part 2: print variable x in 0-10 not inclusive of 10
     - Part 3: print variable x in 0-10 inclusive skipping every other number
     - Part 4: print variable x in 10-0 inclusive skipping every other number
   
-4. Create a method called `forLoops`. Write two seperate for loops.    
+4. Create a method called `forLoops`. Write two separate for loops.    
     - Part 1: declare a list called `colors` of three string elements. Using a for loop, print each element in the list.
     - Part 2: create a new for loop that will iterate through the index and value of each element in `colors`. In the body of your loop, print the index and value in one line.
   

@@ -24,3 +24,4 @@ Kotlin is one of the languages we use for programming the robot, and it is deriv
 
 ## Java Resources
 - [Hello World](java/helloworld.md)
+- [Calculator](java/calculator.md)
