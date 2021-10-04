@@ -26,6 +26,6 @@ The class stores data that is shared by all instances, and is the main container
 Objects are single instances of a class, and inherit key aspects from the base class. 
 Objects can have seperate aspects that make them unique.
 
-## Object Oriented Programming
+## Object-Oriented Programming
 OOP is a framework used to clearly organize your code, which helps with reducing redundant code, reusing code, 
 troubleshooting, and solving complex programming challenges.

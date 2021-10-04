@@ -4,6 +4,7 @@
 
 ## Prerequisites
 - [Hello World](helloworld.md)
+- [Basics](../common/basics.md)
 
 ## Instructions
 1. Create a new project called `Calculator` and add a new Java Class inside the `src` folder. Name the file `Main`.
