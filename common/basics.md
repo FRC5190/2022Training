@@ -3,6 +3,8 @@ This will teach you about the basics of programming if you are new and have no c
 An important tool to all programmers is a search engine, so there is no shame in looking up concepts 
 that you may not understand in-depth.
 
+- Syntax: Grammar of programming languages
+
 ## Variables
 Variables store pieces of information to be referenced or manipulated.
 
