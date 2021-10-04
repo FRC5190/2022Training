@@ -10,6 +10,14 @@ The company behind Intellij, Jetbrains, also has IDEs for numerous other program
 "look and feel," though excluding `PyCharm` for `Python` they are generally not as capable as Intellij is with 
 `Java` and `Kotlin`.
 
+You can download Intellij at the link [here](https://www.jetbrains.com/idea/download). Select the community edition.
+
+## Visual Studio Code
+Visual Studio Code is an IDE that can be used for almost any language.
+It is extension based, relying on the community to develop plugins to make coding easier and to add support
+This means that it is very lightweight and good for scripting languages.
+Visual Studio and Visual Studio Code are different IDEs.
+
 ###Getting Started: Creating a Project
 1. To create a new project in IntelliJ open the program, go to the top left hand corner and click on 
 `File` -> `New` -> `Project...` A window should pop up titled "New Project" 
@@ -23,12 +31,6 @@ Make sure that the type of project selected is "Java" in the top left hand corne
 the name of the project in bold.
 2. Right click the `src` folder and select `New` -> `Java Class` for Java and `New` -> `Kotlin Class/File` for Kotlin.
 3. Name the file whatever the assignment you are working on tells you to name it.
-
-## Visual Studio Code
-Visual Studio Code is an IDE that can be used for almost any language. 
-It is extension based, relying on the community to develop plugins to make coding easier and to add support 
-This means that it is very lightweight and good for scripting languages.
-Visual Studio and Visual Studio Code are different IDEs.
 
 ## Others
 If you prefer another IDE like Eclipse, Netbeans, or no IDE (VIM, Emacs, other text editors) 
