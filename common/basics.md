@@ -34,32 +34,31 @@ troubleshooting, and solving complex programming challenges.
 
 ## Example (Using Basic Data Types and Outputs)
 
-<details>
-public class Main {
-    public static void main(String args[]) {
-        //Whole Number data types
-        byte eByte = 127;
-        short eShort = 32767;
-        int eInt = 2147483647;
-        long eLong = 922337203685475580L;
+    public class Main {
+        public static void main(String args[]) {
+            //Whole Number data types
+            byte eByte = 127;
+            short eShort = 32767;
+            int eInt = 2147483647;
+            long eLong = 922337203685475580L;
 
-        //Decimal/Floating point
-        float eFloat = 243.1f; //Random number, not max positive value
-        double eDouble = 2343.1; //Random number, not max positive value
+            //Decimal/Floating point
+            float eFloat = 243.1f; //Random number, not max positive value
+            double eDouble = 2343.1; //Random number, not max positive value
 
-        //<Type>.MAX_VALUE
+            //<Type>.MAX_VALUE
 
-        //By Java convention, first letter of variable is always lowercase in order to differentiate a class from a variable.
+            //By Java convention, first letter of variable is always lowercase in order to differentiate a class from a variable.
 
-        System.out.println(eFloat + 1000 + "1000");
-        System.out.println(eFloat + eDouble + eByte);
-        //How do you print the values on the same line without adding them
-        System.out.println(Float.toString(eFloat) + " " + Double.toString(eDouble));
+            System.out.println(eFloat + 1000 + "1000");
+            System.out.println(eFloat + eDouble + eByte);
+            //How do you print the values on the same line without adding them
+            System.out.println(Float.toString(eFloat) + " " + Double.toString(eDouble));
 
-        // Backlash n (to enter)
+            // Backlash n (to enter)
+
+        }
 
     }
 
-}
-    <details>
 
