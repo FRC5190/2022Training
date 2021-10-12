@@ -34,6 +34,7 @@ troubleshooting, and solving complex programming challenges.
 
 ## Example (Using Basic Data Types and Outputs)
 
+<details>
 public class Main {
     public static void main(String args[]) {
         //Whole Number data types
@@ -60,4 +61,5 @@ public class Main {
     }
 
 }
+    <details>
 
