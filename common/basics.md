@@ -33,7 +33,7 @@ OOP is a framework used to clearly organize your code, which helps with reducing
 troubleshooting, and solving complex programming challenges.
 
 ## Example (Using Basic Data Types and Outputs)
-{
+
 public class Main {
     public static void main(String args[]) {
         //Whole Number data types
