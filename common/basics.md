@@ -17,6 +17,8 @@ Variables store pieces of information to be referenced or manipulated.
 
 There are many other types of variables besides these.
 
+![image](https://user-images.githubusercontent.com/50601301/137035352-b16f67f1-086c-4f1d-98dd-6409ed76b6cd.png)
+
 ## Methods
 Methods are used as a triggerable action, Commonly called functions. Two common uses of functions are `start` and `stop`
 
