@@ -35,4 +35,4 @@ the name of the project in bold.
 ## Others
 If you prefer another IDE like Eclipse, Netbeans, or no IDE (VIM, Emacs, other text editors) 
 you will be able to write code for the robot and complete the training assignments, but you will be largely on your own 
-for IDE specific issues. Most programmers on the team either use Jetbrains or Visual Studio Code.
+for IDE specific issues. Most programmers on the team either use IntelliJ, Jetbrains or Visual Studio Code.
