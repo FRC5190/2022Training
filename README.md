@@ -11,7 +11,7 @@ Kotlin is one of the languages we use for programming the robot, and it is deriv
 - [Programming Basics](common/basics.md)
 - [Development Environment](common/ide.md)
 - [Using Git and Github](common/git.md)
-- [Falcon Academy 2021](common/FalconAcademy.md)
+- [Falcon Academy 2021](common/falconacademy.md)
 
 ## Kotlin Resources
 - [Hello World](kotlin/helloworld.md)
