@@ -16,6 +16,7 @@ Kotlin is one of the languages we use for programming the robot, and it is deriv
 - [Hello World](kotlin/helloworld.md)
 - [Calculator](kotlin/calculator.md)
 - [Loops](kotlin/loops.md)
+- [Koans](kotlin/koans.md)
 
 ## Javascript Resources
 - [Hello World](javascript/helloworld.md)
