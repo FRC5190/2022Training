@@ -12,7 +12,7 @@ Create your `main` method.
 
 2. Create another Java class within your `src` folder and name it `Loops`. 
 
-3. Create a method called `basicForLoops`. Write four separate for loops that will...    
+3. Create a method called `basicLoops`. Write four separate loops that will...    
     - Part 1: print variable x in 0-10 inclusive
     - Part 2: print variable x in 0-10 not inclusive of 10
     - Part 3: print variable x in 0-10 inclusive skipping every other number

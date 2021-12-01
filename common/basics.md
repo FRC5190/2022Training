@@ -3,6 +3,8 @@ This will teach you about the basics of programming if you are new and have no c
 An important tool to all programmers is a search engine, so there is no shame in looking up concepts 
 that you may not understand in-depth.
 
+- Syntax: Grammar of programming languages
+
 ## Variables
 Variables store pieces of information to be referenced or manipulated.
 
@@ -14,6 +16,8 @@ Variables store pieces of information to be referenced or manipulated.
 - `Character` - a single letter/number
 
 There are many other types of variables besides these.
+
+![image](https://user-images.githubusercontent.com/50601301/137035352-b16f67f1-086c-4f1d-98dd-6409ed76b6cd.png)
 
 ## Methods
 Methods are used as a triggerable action, Commonly called functions. Two common uses of functions are `start` and `stop`
@@ -29,3 +33,42 @@ Objects can have seperate aspects that make them unique.
 ## Object-Oriented Programming
 OOP is a framework used to clearly organize your code, which helps with reducing redundant code, reusing code, 
 troubleshooting, and solving complex programming challenges.
+
+## Example (Using Basic Data Types and Outputs)
+
+    public class Main {
+        public static void main(String args[]) {
+            //Whole Number data types
+            byte eByte = 127;
+            short eShort = 32767;
+            int eInt = 2147483647;
+            long eLong = 922337203685475580L;
+
+            //Decimal/Floating point
+            float eFloat = 243.1f; //Random number, not max positive value
+            double eDouble = 2343.1; //Random number, not max positive value
+
+            //<Type>.MAX_VALUE
+
+            //By Java convention, first letter of variable is always lowercase in order to differentiate a class from a variable.
+
+            System.out.println(eFloat + 1000 + "1000");
+            System.out.println(eFloat + eDouble + eByte);
+            //How do you print the values on the same line without adding them
+            System.out.println(Float.toString(eFloat) + " " + Double.toString(eDouble));
+
+            // Backlash n (to enter)
+
+        }
+
+    }
+    
+--
+
+    1243.11000
+    2713.2000061035155
+    243.1 2343.1
+
+    Process finished with exit code 0    
+
+
