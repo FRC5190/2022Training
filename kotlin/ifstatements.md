@@ -22,15 +22,9 @@ Create your `main` method.
 <details>
     <summary>Code</summary>
 
-    fun main() {
-        println("Hello World")
-    }
 </details>
 
 <details>
     <summary>Console Output</summary>
 
-    Hello World
-
-    Process finished with exit code 0
 </details>
